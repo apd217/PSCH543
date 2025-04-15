@@ -1,2 +1,2 @@
-# PSCH543
-UIC PSCH543 Class website
+# PSCH547
+UIC PSCH547 Class website
